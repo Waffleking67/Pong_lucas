@@ -14,18 +14,18 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("https://thumbs.gfycat.com/GraveSerpentineAmericancreamdraft-size_restricted.gif");
+  background-image: url("https://static.wikia.nocookie.net/omori/images/e/ed/WHITE_SPACE.png/revision/latest/scale-to-width-down/1200?cb=20220610201024");
   background-size: cover;
 }
 
 #left-paddle {
-  background-color: green;
+  background-color: Black;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: blue;
+  background-color: Black;
   right: 10px;
 }
 
